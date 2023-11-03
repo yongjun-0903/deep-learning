@@ -1,0 +1,22 @@
+
+*.txt
+*.data
+*.csv
+*.pdf
+*.names
+*.data-original
+*.c45-names
+*.Z
+*.arff
+*.xlsx
+*.pptx
+*.txt
+Data/auto+mpg/Index
+Data/human+activity+recognition+using+smartphones/UCI HAR Dataset/.DS_Store
+Data/iris/Index
+Data/mushroom/Index
+Data/mushroom/README
+Data/wine/Index
+*.names
+human+activity+recognition+using+smartphones/UCI HAR Dataset/.DS_Store
+*.txt
