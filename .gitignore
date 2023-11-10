@@ -20,3 +20,4 @@ Data/wine/Index
 *.names
 human+activity+recognition+using+smartphones/UCI HAR Dataset/.DS_Store
 *.txt
+*.v2
